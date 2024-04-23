@@ -1,0 +1,4 @@
+# Summary:
+
+# In this study, numerous instances of the 8-Puzzle and 8-Queens problems were generated and solved using three search algorithms:
+# Hill climbing (with its variants of steepest ascent and first choice), hill climbing with random restart, and simulated annealing. The search cost and the percentage of problems solved for each algorithm were measured, and these results were compared against the cost of the optimal solution. The findings indicate significant differences in the efficacy and efficiency among the algorithms, providing valuable insights into their applicability to combinatorial optimization problems.
